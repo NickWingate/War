@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "War.ConsoleUI/1.0.0": {
+        "dependencies": {
+          "War.Domain": "1.0.0"
+        },
+        "runtime": {
+          "War.ConsoleUI.dll": {}
+        }
+      },
+      "War.Domain/1.0.0": {
+        "runtime": {
+          "War.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "War.ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "War.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
